@@ -1,5 +1,4 @@
 image: node:12.18.3 # change to match your node version
-
 cache:
   paths:
     - node_modules/
